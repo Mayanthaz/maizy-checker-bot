@@ -1,0 +1,10 @@
+{
+    "name": "maizy/checker-bot",
+    "description": "MAIZY CHECKER Telegram Bot",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
